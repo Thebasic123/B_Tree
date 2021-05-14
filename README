@@ -1,0 +1,22 @@
+The B-Tree - README file
+
+VERSION- 1.0
+VERSION HISTORY-
+1. Version 1.0: initial release
+
+
+* Files:
+
+Makefile
+README
+btree.h              -- B-Tree class header
+btree_iterator.h     -- B-Tree iterator class header
+test01.cpp           -- testing files
+test02.cpp
+test02.out           -- sample output
+test03.cpp
+test03.out
+twl.txt              -- input data
+
+
+Implementation of the B-Tree class and associated iterator class.
